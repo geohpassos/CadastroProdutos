@@ -1,0 +1,38 @@
+
+.corpo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    background-color: rgb(3, 21, 54);
+}
+
+.container {
+    background-color: #2768b3;
+    padding : 25px;
+    border-radius: 10px;
+    margin-top: 120px;
+    box-shadow: 4px 4px 4px rgb(68, 166, 223);
+    width : 350px
+}
+h3{
+    text-align: center;
+}
+
+input[type="text"]{
+    width: 85%;
+    padding: 15px;
+    margin: 10px;
+    border: 3px solid rgb(0, 252, 252);
+    border-radius: 5px;
+    font-size: 16px;
+}
+input[type="submit"]{
+    border-radius: 6px;
+    padding: 10px;
+    width: 80%;
+    align-items: center;
+    background-color: blue;
+}
+
+

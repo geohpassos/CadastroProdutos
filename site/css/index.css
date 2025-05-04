@@ -1,0 +1,9 @@
+.corpo{    
+    display: flex;
+    
+    justify-content: center;
+}
+
+h3{
+    color: rgb(58, 0, 112);
+}
